@@ -9,4 +9,3 @@ aplicativo contém funções como:
   - conexão completa e funcional com uma base de dados online
   - tela inicial de login/criar conta funcionais
   - botões com imagens dinamicos 
-**Aplicativo não contém deploy por conta de regras que foram mudadas pelo google e falta de atualização da biblioteca kivy
